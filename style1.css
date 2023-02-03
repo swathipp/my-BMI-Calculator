@@ -1,0 +1,47 @@
+.container {
+    width: 375px;
+    height: 525px;
+    margin-left: 350px;
+    margin-top: 45px;
+    background-color: rgb(47, 192, 237);
+    padding-left: 30px;
+}
+#height, #weight,#Name {
+    width: 200px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+#weight-guide{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+#Name-guid{
+    margin-left: 60px;
+    margin-top: 30px; 
+}
+
+#results{
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: blue;
+}
+
+button{
+    width: 150px;
+    height: 35px;
+    margin-left: 90px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color:rgba(5, 24, 117, 0.804);
+    color: #fff;
+    font-size: 25px;
+}
+
+h1{
+    padding-left: 50px;
+    padding-top: 25px;
+}
