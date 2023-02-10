@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+header a{
+  
+    text-decoration: none;
+    margin-right: 100px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: tahoma;
+    color:black;
+    
+    
+
+}
+
+.banner-container{
+width: 700px;
+background-color:rgb(147, 205, 215);
+border-radius: 15px;
+padding: 50px 0;
+box-shadow: 0 5px 6px;
+margin-top: 100px;
+border-bottom: 300px;
+margin-left: 400px;
+
+
+}
+
+.banner-container h4{
+    font-size: 20px;
+    width: 200px;
+    margin: auto;
+}
+
+
+.input-group{
+    width: 200px;
+    margin: 20px auto;
+
+}
+
+
+.submit-section{
+    text-align: center;
+}
+
+
+.submit-button{
+    background-color: #00F0FF;
+    color:black;
+    border: none;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 300px;
+    cursor: pointer;
+
+}
+
+.submit-button:hover{
+     box-shadow: 0 3px 6px silver;
+
+}
